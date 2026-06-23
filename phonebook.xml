@@ -1,0 +1,21 @@
+<AddressBook>
+<pbgroup>
+<id>27861</id>
+<name>Blocklist</name>
+</pbgroup>
+<pbgroup>
+<id>27862</id>
+<name>Allowlist</name>
+</pbgroup>
+<Contact>
+<id>13931</id>
+<FirstName>Shi Yiing</FirstName>
+<LastName>Tan</LastName>
+<Frequent>0</Frequent>
+<Phone type="Work">
+<phonenumber>0165988977</phonenumber>
+<accountindex>0</accountindex>
+</Phone>
+<Primary>0</Primary>
+</Contact>
+</AddressBook>
