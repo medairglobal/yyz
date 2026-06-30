@@ -42,8 +42,8 @@
 <phonenumber>+18003874865</phonenumber>
 </Phone>
 </Contact><Contact>
-<FirstName>Hektor</FirstName>
-<LastName>Charger</LastName>
+<FirstName>Charger</FirstName>
+<LastName>Hektor</LastName>
 <Phone>
 <phonenumber>+16476545124</phonenumber>
 </Phone>
@@ -70,5 +70,17 @@
 <LastName>(Ext. 3)</LastName>
 <Phone>
 <phonenumber>+18002216600</phonenumber>
+</Phone>
+</Contact><Contact>
+<FirstName>Erwa</FirstName>
+<LastName>Hala</LastName>
+<Phone>
+<phonenumber>+14385036604</phonenumber>
+</Phone>
+</Contact><Contact>
+<FirstName>BA</FirstName>
+<LastName>Desmond cell</LastName>
+<Phone>
+<phonenumber></phonenumber>
 </Phone>
 </Contact></AddressBook>
