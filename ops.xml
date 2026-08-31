@@ -199,8 +199,14 @@
 </Phone>
 </Contact><Contact>
 <FirstName>AC</FirstName>
-<LastName>CS (US)</LastName>
+<LastName>CS (US central)</LastName>
 <Phone>
 <phonenumber>+18449784641</phonenumber>
+</Phone>
+</Contact><Contact>
+<FirstName>AC</FirstName>
+<LastName>CS (US east)</LastName>
+<Phone>
+<phonenumber>+16175676103</phonenumber>
 </Phone>
 </Contact></AddressBook>
